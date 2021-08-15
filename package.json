@@ -370,8 +370,7 @@
     "Zaraclaj.dart-extensions-snippets",
     "zengxingxin.sort-js-object-keys",
     "Zignd.html-css-class-completion",
-    "ZneuRay.erb-vscode-snippets",
-
+    "ZneuRay.erb-vscode-snippets"
   ],
   "publisher": "dave-io",
   "repository": "https://github.com/daveio/dave-vscode-extpack"
