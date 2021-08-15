@@ -2,7 +2,7 @@
   "name": "dave-vscode-extpack",
   "displayName": "Dave's VS Code Extension Pack",
   "description": "Personal VS Code Extension Pack",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.53.0"
   },
